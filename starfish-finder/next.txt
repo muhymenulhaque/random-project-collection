@@ -1,0 +1,9 @@
+Blog on lights and light pollution
+	reactjs
+	SEO
+	Full react website
+	routing 
+	redux
+Game on light pollution effects on the stars
+	phaserjs
+	with story of dad 
